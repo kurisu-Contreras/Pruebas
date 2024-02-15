@@ -1,0 +1,17 @@
+.click{
+    font-family: Helvetica,'Times New Roman', sans-serif;
+    font-size: 28px;
+
+}
+.touch-me-harder{
+    background-color: blueviolet;
+    color: white;
+}
+.button1{
+    background-color: yellow;
+    color: black;
+}
+#meme{
+    width: 500px;
+    height: auto;
+}
