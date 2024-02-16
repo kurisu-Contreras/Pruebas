@@ -1,0 +1,10 @@
+
+.touch .harder{
+    background-color: yellow;
+    font-size: 24px;
+    color: red;
+}
+.touch .me .harder{
+    height: auto;
+    width: 500px;
+}
