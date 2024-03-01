@@ -1,0 +1,27 @@
+*{
+    max-width: 600px;
+    margin: 0 auto;
+   
+}
+.one,
+.three{
+    padding: 32px;
+    
+}
+.one{
+    border: 2px solid blue;
+    margin: 12px;
+    background-color: pink;
+}
+.two{
+    border: 2px solid rgb(102, 10, 206);
+    background-color: aquamarine;
+    margin-bottom: 48px;
+    
+}
+.three{
+    border: 2px solid hsl(29, 72%, 56%);
+    width: 200px;
+    background-color: burlywood;
+    margin-left: 330px;
+}
